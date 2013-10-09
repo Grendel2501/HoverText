@@ -1,0 +1,58 @@
+/*
+Template Name: Baynote Enhanced Recs
+Template URI: n/a
+Description: CSS for Hover Text JQuery
+Version: 1.0
+Author: Richard Bakare
+Author URI: http://www.richardbakare.com
+Tags: JQuery, Hover, Image Text
+*/
+/*-------------------------------------------------------------------------------------
+hover text css
+-------------------------------------------------------------------------------------*/
+.wrapper_toggle {
+	top: 15%;
+	height: 40px;
+	padding: 2px 4px 2px 4px;
+	display: none;
+	position: absolute;
+	margin: auto;
+	background-color: #ccc;
+}
+.text_description {
+    top: 10px;
+	max-width: 200px;
+	margin: auto;
+}
+/*-------------------------------------------------------------------------------------
+image css
+-------------------------------------------------------------------------------------*/
+.race_logo {
+}
+.logo_img {
+	max-height: 250px;
+	max-width: 250px;
+}
+.product_rating {
+	text-align: center;
+	height: 20px;
+	width: 98px;
+}
+/*-------------------------------------------------------------------------------------
+general css
+-------------------------------------------------------------------------------------*/
+body {
+	width: 800px;
+	margin: auto;
+}
+#races {
+}
+.race_reviews {
+}
+.race_rating {
+	text-align: center;
+}
+.race_slot {
+	float: left;
+	padding-right: 20px;
+}
