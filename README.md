@@ -5,7 +5,7 @@ An iOS RSS Reader app template that includes a method for sending an HTTP Post t
 
 **Author**: Richard Bakare, 2013 (richardbakare@me.com)
 
-**GitHub**: https://github.com/Grendel2501/HoverText/
+**GitHub**: https://github.com/Grendel2501/HoverText
 
 Usage:
 ------
